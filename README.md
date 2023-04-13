@@ -18,5 +18,5 @@
 
 ## Notas
 
-##¹ Iterar:
+## ¹ Iterar:
 - Iteração é o processo chamado na programação de repetição de uma ou mais ações. É importante salientar que cada iteração se refere a apenas uma instância da ação, ou seja, cada repetição possui uma ou mais iterações. Comando `“for”`: Em suma, para entender o que é interação é necessário conhecer alguns dos seus elementos. Nesse sentido, já falamos acima o que é “for” e “while”, mas é importante observar mais alguns detalhes sobre estes elementos. Portanto, o comando “for” processa cada item em uma lista, sempre por comandos já conhecidos. Ele é mais usado quando já se conhece de antemão o número de iterações necessárias. Comando `“while”`: Enquanto isso, o while fornece um comando muito mais geral, utilizando uma expressão booleana para controlar o fluxo de execução. Nesse sentido, podemos criar qualquer tipo de iteração em while, sendo que esse método exige mais atenção por parte do developer, que tem que fornecer um valor inicial, criar uma condição de saída e acompanhar a execução. Dessa forma, é preciso analisar qual dos dois utilizar no seu fluxo de trabalho que exija iteração.
