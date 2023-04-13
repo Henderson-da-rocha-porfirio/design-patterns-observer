@@ -1,4 +1,4 @@
-# Observer
+# Observer `iterar`[¹](https://github.com/Henderson-da-rocha-porfirio/design-patterns-observer#-iterar-itera%C3%A7%C3%A3o-%C3%A9-o-processo-chamado-na-programa%C3%A7%C3%A3o-de-repeti%C3%A7%C3%A3o-de-uma-ou-mais-a%C3%A7%C3%B5es-%C3%A9-importante-salientar-que-cada-itera%C3%A7%C3%A3o-se-refere-a-apenas-uma-inst%C3%A2ncia-da-a%C3%A7%C3%A3o-ou-seja-cada-repeti%C3%A7%C3%A3o-possui-uma-ou-mais-itera%C3%A7%C3%B5es)
 ### 1. É para ser usado em situações que você tem observadores e observados.
 ### 2. Uma série de observadores estão interessados em alguém, e esse, seria o observado. E quando esse tivesse uma mudança, todos os observadores precisam ser notificados dessa mudança.
 ### 3. Uma ideia mais real do conceito desse padrão, é um sistema de marcação de consulta médica. Onde as pessoas ficam na espera de surgir alguma vaga ( observadores ) na agenda ( observado ) do médico no sistema para consulta.
